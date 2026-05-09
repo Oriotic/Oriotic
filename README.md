@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Oriotic</h1>
+<h1 align="left">Hi there, I'm Oriotic</h1>
 <p align="left">Game & software developer passionate about creating immersive experiences.</p>
 
 ###
