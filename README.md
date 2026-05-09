@@ -40,11 +40,11 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo" />
-  <img width="2" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo" />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
 </div>
