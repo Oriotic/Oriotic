@@ -5,7 +5,7 @@
 ###
 
 <h1 align="left">Hi there, I'm Oriotic</h1>
-<p align="left">Game & software developer passionate about creating immersive experiences.</p>
+<p align="left">Software developer passionate about creating immersive experiences.</p>
 
 ###
 
