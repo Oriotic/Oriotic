@@ -5,6 +5,7 @@
 ###
 
 <h1 align="left">Welcome</h1>
+<p align="left">Game & software developer passionate about creating immersive experiences.</p>
 
 ###
 
