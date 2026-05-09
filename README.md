@@ -49,9 +49,15 @@
 
 ###
 
-<p align="left">💌 Contact</p>
-<a href="mailto:oriotic@proton.me">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>
+<table border="0">
+  <tr>
+    <td>💌 Contact</td>
+    <td>
+      <a href="mailto:oriotic@proton.me">
+        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
