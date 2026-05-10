@@ -54,6 +54,10 @@
 </div>
 
 ###
+
+<h2 align="left">Contact</h2>
+
+###
 <a href="mailto:oriotic@proton.me">
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
