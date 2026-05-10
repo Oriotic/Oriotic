@@ -54,21 +54,10 @@
 </div>
 
 ###
+<a href="mailto:oriotic@proton.me">
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
 
-<table border="0">
-  <tr>
-    <td>💌 Contact</td>
-    <td>
-      <a href="mailto:oriotic@proton.me">
-        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://ko-fi.com/oriotic">
-        <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://ko-fi.com/oriotic">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
+</a>
