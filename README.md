@@ -58,13 +58,8 @@
 <h2 align="left">Contact & Support</h2>
 
 ###
-<a href="mailto:oriotic@proton.me">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" width="160" height="28" />
-</a>
-<a href="mailto:oriaotic@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="160" height="28" />
-</a>
+<a href="mailto:oriotic@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a><a href="mailto:oriaotic@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <br>
 <a href="https://ko-fi.com/oriotic">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="328" />
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
 </a>
