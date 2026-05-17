@@ -50,6 +50,8 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo" />
   <img width="2" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
