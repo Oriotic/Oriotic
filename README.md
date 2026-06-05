@@ -12,6 +12,8 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="2" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="2" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
