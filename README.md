@@ -18,8 +18,6 @@
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
   <img width="2" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="2" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="2" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
