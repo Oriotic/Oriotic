@@ -1,5 +1,5 @@
 <h1 align="left">Hi there</h1>
-<p align="left">I'm software developer passionate about creating immersive experiences.</p>
+<p align="left">I'm a software developer passionate about creating immersive experiences.</p>
 
 <h2 align="left">Tools & Technologies</h2>
 
